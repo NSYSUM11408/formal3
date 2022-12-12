@@ -9,7 +9,6 @@
 
 const urls = [
 	'https://reurl.cc/GXG6Vv',
-	'https://reurl.cc/x1KmZz',
 	'https://reurl.cc/7jb8oy',
 	'https://reurl.cc/Z1lk7A',
 ];
